@@ -34,7 +34,9 @@
 ### 🛠️ Skills & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,selenium,git,github,vscode,html,css,js,linux,blaze-meter,Jmeter, Postman, Xmind" />
+  <img src="https://skillicons.dev/icons?i=python,selenium,git,github,vscode,html,css,js,linux,postman,jmeter" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/48/BlazeMeter-logo.svg" width="45" alt="BlazeMeter"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/XMind_logo.svg" width="40" alt="XMind"/>
 </p>
 
 ---
