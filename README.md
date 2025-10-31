@@ -1,7 +1,8 @@
 <!-- 👋 Welcome Section with Banner Image -->
 <p align="center">
-  <img src="https:gihub.com/git pro.jpg" alt="Abdur Rouf" width="200" style="border-radius:50%; animation: bounce 2s infinite;">
+  <img src="https://github.com/Abdur-Rouf20/Abdur-Rouf20/raw/main/git%20pro.jpg" alt="Abdur Rouf Portfolio Banner" width="800"/>
 </p>
+
 
 <h1 align="center">Hi, This is Abdur Rouf 👋</h1>
 <h3 align="center">Software Quality Assurance (SQA) Engineer | Test Automation Enthusiast</h3>
