@@ -86,7 +86,7 @@
     <img src="https://img.shields.io/badge/GitHub-Abdur--Rouf20-black?style=flat&logo=github"/>
   </a>
   <a href="mailto:abdurrouf@example.com">
-    <img src="https://img.shields.io/badge/Email-abdurrouf%40example.com-red?style=flat&logo=gmail"/>
+    <img src="https://img.shields.io/badge/Email-roufofficial2020@gmail.com-red?style=flat&logo=gmail"/>
   </a>
 </p>
 
