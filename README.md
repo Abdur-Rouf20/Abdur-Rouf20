@@ -34,7 +34,7 @@
 ### 🛠️ Skills & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,selenium,git,github,vscode,html,css,js,linux,mongodb,nodejs,react" />
+  <img src="https://skillicons.dev/icons?i=python,selenium,git,github,vscode,html,css,js,linux,blaze-meter,Jmeter, Postman, Xmind" />
 </p>
 
 ---
